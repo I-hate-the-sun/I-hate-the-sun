@@ -29,4 +29,8 @@ Dermatology
 
 ## Music
 
+- [Ravel — Piano Concerto in G Major: II. Adagio assai](https://open.spotify.com/album/3qkWRjL9HGN6OzgKMTAmFe)
+- [Grieg — Piano Concerto in A Minor: II. Adagio](https://open.spotify.com/track/48ncsTkxc9KlRZEG0PC2rZ)
+- [Beethoven — Piano Concerto No. 5 in E-flat Major: II. Adagio un poco mosso](https://open.spotify.com/track/6LXZuZlol5f1Xsn0aoLAN5)
+
 <img src="https://raw.githubusercontent.com/I-hate-the-sun/I-hate-the-sun/output/Moon.svg" width="100%" alt="Moonlight Walk">
