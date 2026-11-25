@@ -31,3 +31,5 @@ Dermatology
 
 **[Ravel: Piano Concerto in G Major, M. 83: II. Adagio assai](https://open.spotify.com/album/3qkWRjL9HGN6OzgKMTAmFe)**  
 Seong-Jin Cho
+
+![Moonlight Walk](https://raw.githubusercontent.com/I-hate-the-sun/I-hate-the-sun/output/Moon.svg)
