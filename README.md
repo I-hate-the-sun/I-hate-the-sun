@@ -26,3 +26,10 @@ Dermatology
 ## Contributions
 
 ![UV Chase](https://raw.githubusercontent.com/I-hate-the-sun/I-hate-the-sun/output/uv-chase.svg)
+
+## Music
+
+[<img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02d6c63d7d7d4a7a18137d3607" width="110" alt="Ravel album cover">](https://open.spotify.com/album/3qkWRjL9HGN6OzgKMTAmFe)
+
+**[Ravel: Piano Concerto in G Major, M. 83: II. Adagio assai](https://open.spotify.com/album/3qkWRjL9HGN6OzgKMTAmFe)**  
+Maurice Ravel
