@@ -1,16 +1,28 @@
-## Hi there 👋
+[![A Life of Dodging UV](https://raw.githubusercontent.com/I-hate-the-sun/I-hate-the-sun/output/UV.svg)](https://github.com/I-hate-the-sun)
+## Affiliation
 
-<!--
-**I-hate-the-sun/I-hate-the-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Researcher**
 
-Here are some ideas to get you started:
+Clinical Research Support Center  
+Jeonbuk National University Hospital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+**M.S.** — Jeonbuk National University
+
+**B.S.** — Chonnam National University
+
+## Research Interests
+
+Skin Microbiome
+
+Dermatology
+
+## Languages & Tools
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+
+## Contributions
+
+![UV Chase](https://raw.githubusercontent.com/I-hate-the-sun/I-hate-the-sun/output/uv-chase.svg)
