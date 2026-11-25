@@ -27,7 +27,7 @@ Dermatology
 
 ![UV Chase](https://raw.githubusercontent.com/I-hate-the-sun/I-hate-the-sun/output/uv-chase.svg)
 
-## Music
+## Playlist
 
 - [Ravel — Piano Concerto in G Major: II. Adagio assai](https://open.spotify.com/album/3qkWRjL9HGN6OzgKMTAmFe)
 - [Grieg — Piano Concerto in A Minor: II. Adagio](https://open.spotify.com/track/48ncsTkxc9KlRZEG0PC2rZ)
